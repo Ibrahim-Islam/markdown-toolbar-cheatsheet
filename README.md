@@ -2,7 +2,7 @@
 
 > An intuitive markdown cheatsheet.
 
-It's live at http://chibicode.github.io/markdown-toolbar-cheatsheet.
+It's live at http://ibrahim-islam.github.io/markdown-toolbar-cheatsheet.
 
 ## Motivation
 
